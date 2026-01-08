@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="trueorigin.jpg" alt="TrueOrigin Logo" width="200" style="margin-bottom: 0px;">
+  <img src="trueorigin.jpeg" alt="TrueOrigin Logo" width="200" style="margin-bottom: 0px;">
   <h1 style="margin-top: 0px;">TrueOrigin</h1>
   <p><i>AI vs Real Artwork Detection</i></p>
 </div>
