@@ -86,4 +86,3 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
 ├── Model_Training.ipynb            
 └── README.md                 
 ```
-meme
